@@ -1,16 +1,15 @@
-# mi_card
+# 💼 mi_card Flutter App
 
-A new Flutter project.
+A sleek digital business card built with Flutter. This app showcases a profile image, name, job title, and contact information using clean layout widgets and custom styling
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Profile image and name display
+- Job title and contact info (phone, email)
+- Custom fonts and colors
+- Responsive layout using `Column`, `Card`, and `ListTile`
+- Cross-platform support (Android, iOS, Web)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
